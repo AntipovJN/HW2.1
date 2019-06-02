@@ -1,6 +1,6 @@
 public class Application {
 
-    private static final double ERROR = 1E-4; // погрешность
+    private static final double ERROR = 1E-4; 
 
     public static void main(String[] args) {
         System.out.println(booleanExpression(false, false, true, true)); //task 1
